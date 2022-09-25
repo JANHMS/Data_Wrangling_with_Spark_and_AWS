@@ -58,11 +58,11 @@ The log files in the dataset are partitioned by year and month. For example, her
 >**s3://udacity-dend/log_data/2018/11/2018-11-13-events.json**
 
 Below is an example of what the data in a log file, **2018-11-12-events.json**, looks like.
-![Log data example!](./image/log-data.png)
+![Log data example!](./images/log-data.png)
 
 ## Data Modeling
 
-![Star Schema for Song Play Analysis!](./image/star_schema.png "Star Schema for Analysis")
+![Star Schema for Song Play Analysis!](./images/star_schema.png "Star Schema for Analysis")
 
 ## <br>Data Lake to store extracted dimentional tables
 >"s3a://udacity-de-sparkify-data-lake/songs" <br>
